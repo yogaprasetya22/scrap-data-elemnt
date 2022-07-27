@@ -1,0 +1,265 @@
+
+Layanan Akademik
+
+POS-AK-1-V03 Pelaksanaan Pengumpulan dan Pengolahan Data Mutu Akademik
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Pelaksanaan-Pengumpulan-dan-Pengolahan-Data-Mutu-Akademik.pdf
+POS-AK-2-V03 Pelaksanaan Penyusunan Pedoman Kegiatan Akademik
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Pelaksanaan-Penyusunan-Pedoman-Kegiatan-Akademik.pdf
+POS-AK-3-V03 Pengelolaan Program Penelitian dan Pengabdian Kepada Masyarakat
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Pengelolaan-Program-Penelitian-dan-Pengabdian-Kepada-Masyarakat.pdf
+POS-AK-4-V05 Validasi dan Verifikasi Ijazah
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Validasi-dan-Verifikasi-Ijazah.pdf
+POS-AK-5-V07 Penyelesaian Legalisasi Fotokopy Ijazah Bagi PTS yang Sudah Ditutup
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Penyelesaian-Legalisasi-Fotokopy-Ijazah-Bagi-PTS-yang-Sudah-Ditutup.pdf
+POS-AK-6-V03 Penerbitan Surat Keterangan Pengganti Ijazah bagi Perguruan Tinggi yang Tutup
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Penerbitan-Surat-Keterangan-Pengganti-Ijazah-bagi-Perguruan-Tinggi-yang-Tutup.pdf
+POS-AK-8-V03 Pelaporan Pendataan Kekayaan Intelektual dan Publikasi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Pelaporan-Pendataan-Kekayaan-Intelektual-dan-Publikasi.pdf
+POS-AK-9-V03 Pelaksanaan Pemantauan dan Evaluasi Pelaksanaan Pembelajaran
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Pelaksanaan-Pemantauan-dan-Evaluasi-Pelaksanaan-Pembelajaran.pdf
+POS-AK-10-V03 Pelaksanaan Pemantauan dan Evaluasi Pelaksanaan Penelitian dan Pengabdian
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Pelaksanaan-Pemantauan-dan-Evaluasi-Pelaksanaan-Penelitian-dan-Pengabdian.pdf
+POS-AK-11-V01 Verifikasi Perpanjangan Masa Studi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Verifikasi-Perpanjangan-Masa-Studi.pdf
+POS-AK-12-V01 Reset atau Pembatalan PIN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Akademik-Reset-atau-Pembatalan-PIN.pdf
+
+
+Layanan Kemahasiswaan
+
+POS-KM-1-V07 Rekomendasi Mutasi Mahasiswa
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kemahasiswaan-Pemberian-Rekomendasi-Mutasi-Mahasiswa.pdf
+POS-KM-2-V11 Pemberian Beasiswa UKT SPP
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kemahasiswaan-Pemberian-Beasiswa-UKT-SPP.pdf
+POS-KM-6-V04 Pemberian Beasiswa KIP Kuliah
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kemahasiswaan-Pemberian-Beasiswa-KIP-Kuliah.pdf
+
+
+Layanan Pendidik dan Tenaga Kependidikan
+
+POS-DK-1-V08 Penerbitan Penilaian Angka Kredit (PAK) Jabatan Akademik Dosen Asisten Ahli dan Lektor
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Pendidikan-dan-Tenaga-Kependidikan-Penerbitan-Penilaian-Angka-Kredit-PAK-Jabatan-Akademik-Dosen-Asisten-Ahli-dan-Lektor.pdf
+POS-DK-2-V07 Pemrosesan Usulan Jabatan Fungsional Dosen Lektor Kepala dan Guru Besar
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Pendidikan-dan-Tenaga-Kependidikan-Pemrosesan-Usulan-Jabatan-Fungsional-Dosen-Lektor-Kepala-dan-Guru-Besar.pdf
+POS-DK-3-V09 Penerbitan Surat Rekomendasi Beasiswa Unggulan Dosen Indonesia dalam dan luar Negeri
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Pendidikan-dan-Tenaga-Kependidikan-Penerbitan-Surat-Rekomendasi-Beasiswa-Unggulan-Dosen-Indonesia-dalam-dan-luar-Negeri.pdf
+POS-DK-4-V06 Proses Sertifikasi Dosen
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Pendidikan-dan-Tenaga-Kependidikan-Proses-Sertifikasi-Dosen.pdf
+POS-DK-5-V04 Pemilihan Diktendik Berprestasi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Pendidikan-dan-Tenaga-Kependidikan-Pemilihan-Diktendik-Berprestasi.pdf
+POS-DK-6-V02 Beban Kinerja Dosen
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Pendidikan-dan-Tenaga-Kependidikan-Beban-Kinerja-Dosen.pdf
+
+
+Layanan Kelembagaan, Sarana dan Prasarana
+
+POS-KL-1-V01 Standar Pelayanan Rekomendasi Alih Kelola Perguruan Tinggi Swasta
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasarana-Standar-Pelayanan-Rekomendasi-Alih-Kelola-Perguruan-Tinggi-Swasta.pdf
+POS-KL-2-V01 Standar Pelayanan Rekomendasi Pendirian Perguruan Tinggi Swasta Baru
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasarana-Standar-Pelayanan-Rekomendasi-Pendirian-Perguruan-Tinggi-Swasta-Baru.pdf
+POS-KL-3-V01 Standar Pelayanan Rekomendasi Pembukaan Program Studi Baru PTS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Pembukaan-Program-Studi-Baru-PTS.pdf
+POS-KL-4-V01 Standar Pelayanan Rekomendasi Perubahan Bentuk Perguruan Tinggi Swasta
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Perubahan-Bentuk-Perguruan-Tinggi-Swasta.pdf
+POS-KL-5-V01 Standar Pelayanan Rekomendasi Pembukaan Program Studi Luar Kampus Utama
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Pembukaan-Program-Studi-Luar-Kampus-Utama.pdf
+POS-KL-6-V01 Standar Pelayanan Rekomendasi Perubahan Lokasi Kampus Utama Perguruan Tinggi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Perubahan-Lokasi-Kampus-Utama-Perguruan-Tinggi.pdf
+POS-KL-7-V01 Standar Pelayanan Rekomendasi Penggabungan Penyatuan PTS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Penggabungan-Penyatuan-PTS.pdf
+POS-KL-8-V01 Standar Pelayanan Rekomendasi Pencabutan Izin Program Studi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Pencabutan-Izin-Program-Studi.pdf
+POS-KL-9-V01 Standar Pelayanan Rekomendasi Perubahan Nama Perguruan Tinggi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Perubahan-Nama-Perguruan-Tinggi.pdf
+POS-KL-10-V01 Standar Pelayanan Rekomendasi Perubahan Nama Program Studi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Perubahan-Nama-Program-Studi.pdf
+POS-KL-11-V01 Standar Pelayanan Rekomendasi Perubahan Nama Badan Penyelenggara Perguruan Tinggi Swasta
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Standar-Pelayanan-Rekomendasi-Perubahan-Nama-Badan-Penyelenggara-Perguruan-Tinggi-Swasta.pdf
+POS-SP-1-V03 Pengumpulan, Pengolahan dan Pemetaan Data Sarana dan Prasarana Perguruan Tinggi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Pengumpulan-Pengolahan-dan-Pemetaan-Data-Sarana-dan-Prasarana-Perguruan-Tinggi.pdf
+POS-SP-2-V03 Pemberian Rekomendasi Bantuan Sarana Prasarana PT
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Pemberian-Rekomendasi-Bantuan-Sarana-Prasarana-PT.pdf
+POS-SP-3-V03 Penyiapan Bahan Fasilitas dan Pemberian Bimbingan Teknis
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Penyiapan-Bahan-Fasilitas-dan-Pemberian-Bimbingan-Teknis.pdf
+POS-SP-4-V03 Pemantauan dan Evaluasi Sarana dan Prasarana Perguruan Tinggi (Monev)
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kelembagaan-dan-Sarana-Prasana-Pemantauan-dan-Evaluasi-Sarana-dan-Prasarana-Perguruan-Tinggi-Monev.pdf
+
+
+Layanan Sistem Informasi dan Kerjasama
+
+POS-SI-1-V03 Pengembangan Sistem Informasi Melalui Vendor
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Pengembangan-Sistem-Informasi-Melalui-Vendor.pdf
+POS-SI-2-V03 Rancangan Pengembangan Sistem Informasi yang Dikelola dan Dievaluasi Sendiri
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Rancangan-Pengembangan-Sistem-Informasi-yang-Dikelola-dan-Dievaluasi-Sendiri.pdf
+POS-SI-3-V07 Pemeliharaan Jariangan dan Sistem Informasi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Pemeliharaan-Jariangan-dan-Sistem-Informasi.pdf
+POS-SI-4-V07 Pembuatan BAP Usulan Tipe 1
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Pembuatan-BAP-Usulan-Tipe-1.pdf
+POS-SI-5-V03 Evaluasi Pelaporan Semester Perguruan Tinggi Melalui Aplikasi Feeder
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Evaluasi-Pelaporan-Semester-Perguruan-Tinggi-Melalui-Aplikasi-Feeder.pdf
+POS-SI-6-V03 Pengelolaan Pangkalan Data Pendidikan Tinggi dan SISTER
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Pengelolaan-Pangkalan-Data-Pendidikan-Tinggi-dan-SISTER.pdf
+POS-SI-7-V03 Mengembangkan Desain Serta Mengelola Laman
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Mengembangkan-Desain-Serta-Mengelola-Laman.pdf
+POS-SI-8-V03 Pengumpulan, Pengolahan dan Penyusunan Bahan Fasilitasi Pengembangan Kerjasama Perguruan Tinggi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Sistem-Informasi-dan-Kerjasama-Pengumpulan-Pengolahan-dan-Penyusunan-Bahan-Fasilitasi-Pengembangan-Kerjasama-Perguruan-Tinggi.pdf
+
+
+Layanan Kepegawaian dan Tatalaksana
+
+POS-HKT-1-V03 Penyiapan Bahan Usulan Pengadaan CPNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Penyiapan-Bahan-Usulan-Pengadaan-CPNS.pdf
+POS-HKT-2-V03 Penyiapan Bahan Pelantikan, Pengangkatan dan Sumpah PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Penyiapan-Bahan-Pelantikan-Pengangkatan-dan-Sumpah-PNS.pdf
+POS-HKT-3-V06 Pemrosesan SK Inpassing Golongan III dan SK KP Inpassing Golongan III
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemrosesan-SK-Inpassing-Golongan-III-dan-SK-KP-Inpassing-Golongan-III.pdf
+POS-HKT-4-V03 Pemrosesan Usulan SK Inpassing Golongan IV dan SK KP Inpassing Golongan IV
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemrosesan-Usulan-SK-Inpassing-Golongan-IV-dan-SK-KP-Inpassing-Golongan-IV.pdf
+POS-HKT-5-V08 Pemrosesan Usulan SK Kenaikan Pangkat PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemrosesan-Usulan-SK-Kenaikan-Pangkat-PNS.pdf
+POS-HKT-6-V03 Pemrosesan SK Jabatan Akademik Dosen Asisten Ahli dan Lektor
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemrosesan-SK-Jabatan-Akademik-Dosen-Asisten-Ahli-dan-Lektor.pdf
+POS-HKT-7-V03 Pemreosesan Usulan SK Perpindahan Dosen dan Alih Tugas Nondosen Menjadi Dosen
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemreosesan-Usulan-SK-Perpindahan-Dosen-dan-Alih-Tugas-Nondosen-Menjadi-Dosen.pdf
+POS-HKT-8-V03 Pemreosesan Pelanggaran Disiplin PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemreosesan-Pelanggaran-Disiplin-PNS.pdf
+POS-HKT-9-V03 Pemrosesan Pemberhentian PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tatalaksana-Pemrosesan-Pemberhentian-PNS.pdf
+POS-HKT-10-V03 Pemrosesan Pemberian Cuti PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Pemberian-Cuti-PNS.pdf
+POS-HKT-11-V03 Pemrosesan Pemberian Penghargaan Satya Lencana Karya Satya Bagi PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Pemberian-Penghargaan-Satya-Lencana-Karya-Satya-Bagi-PNS.pdf
+POS-HKT-12-V03 Pemrosesan Verifikasi dan Validasi SKP Dosen
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Verifikasi-dan-Validasi-SKP-Dosen.pdf
+POS-HKT-13-V05 Pemrosesan Pegawai Yang Akan Mengikuti Pelatihan
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Pegawai-Yang-Akan-Mengikuti-Pelatihan.pdf
+POS-HKT-14-V03 Pemrosesan SK Izin Belajar PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-SK-Izin-Belajar-PNS.pdf
+POS-HKT-15-V03 Pemrosesan Usulan SK Tugas Belajar PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Usulan-SK-Tugas-Belajar-PNS.pdf
+POS-HKT-16-V07 Pemrosesan Usulan Pembuatan KARPEG, KARIS, KARSU, BPJS dan TASPEN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Usulan-Pembuatan-KARPEG-KARIS-KARSU-BPJS-dan-TASPEN.pdf
+POS-HKT-17-V03 Penyiapan Bahan Pengangkatan CPNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Penyiapan-Bahan-Pengangkatan-CPNS.pdf
+POS-HKT-18-V02 Penyusunan Rancangan Keputusan, Nota Kesepahaman dan Perjanjian Kerja Sama
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Penyusunan-Rancangan-Keputusan-Nota-Kesepahaman-dan-Perjanjian-Kerja-Sama.pdf
+POS-HKT-19-V02 Penyusunan Bahan Pemberian Bantuan dan Layanan Hukum Terhadap Penyelesaian Kasus Hukum dan Hak Asasi Manusia
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Penyusunan-Bahan-Pemberian-Bantuan-dan-Layanan-Hukum-Terhadap-Penyelesaian-Kasus-Hukum-dan-Hak-Asasi-Manusia.pdf
+POS-HKT-20-V06 Pemrosesan SK Kenaikan Gaji Berkala PNS
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-SK-Kenaikan-Gaji-Berkala-PNS.pdf
+POS-HKT-21-V06 Pemrosesan Surat Rekomendasi Pindah Homebase Dosen Tetap Yayasan
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Kepegawaian-dan-Tata-Laksana-Pemrosesan-Surat-Rekomendasi-Pindah-Homebase-Dosen-Tetap-Yayasan.pdf
+
+
+Layanan Perencanaan dan Penganggaran
+
+POS-PP-01-V02 Penyusunan Rencana Program Unit Kerja
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Penyusunan-Rencana-Program-Unit-Kerja.pdf
+POS-PP-02-V08 Penyusunan RKA-KL
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Penyusunan-RKA-KL.pdf
+POS-PP-03-V02 Revisi Anggaran ke KPA
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Revisi-Anggaran-ke-KPA.pdf
+POS-PP-04-V02 Revisi Anggaran ke DJA-DJPB
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Revisi-Anggaran-ke-DJA-DJPB.pdf
+POS-PP-05-V02 Pelaksanaan Kegiatan
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pelaksanaan-Kegiatan.pdf
+POS-PP-06-V02 Pencairan Dana Melalui LS Bendahara (Non Kontraktual)
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pencairan-Dana-Melalui-LS-Bendahara-Non-Kontraktual.pdf
+POS-PP-07-V02 Pencairan Dana Melalui LS Kontraktual
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pencairan-Dana-Melalui-LS-Kontraktual.pdf
+POS-PP-08-V02 Pencairan Dana Melalui LS Pihak Ketiga
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pencairan-Dana-Melalui-LS-Pihak-Ketiga.pdf
+POS-PP-09-V02 Pencairan Dana Melalui Ganti Uang Persediaan (GUP)
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pencairan-Dana-Melalui-Ganti-Uang-Persediaan-GUP.pdf
+POS-PP-10-V09 Pencairan Dana Malalui Uang Persediaan (UP)
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pencairan-Dana-Malalui-Uang-Persediaan-UP.pdf
+POS-PP-11-V02 Pencairan Dana Malalui Tambahan Uang Persediaan (TUP)
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pencairan-Dana-Malalui-Tambahan-Uang-Persediaan-TUP.pdf
+POS-PP-12-V07 Pembayaran Gaji Pegawai
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pembayaran-Gaji-Pegawai.pdf
+POS-PP-13-V10 Pembayaran Tunjangan Sertifikasi Dosen, Uang Makan dan Uang Lembur
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pembayaran-Tunjangan-Sertifikasi-Dosen-Uang-Makan-dan-Uang-Lembur.pdf
+POS-PP-14-V02 Mekanisme Retur dana SPM dan SP2D
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Mekanisme-Retur-dana-SPM-dan-SP2D.pdf
+POS-PP-15-V02 Perpajakan Bagi Bendahara Pengeluaran dan Bendahara Pengeluaran Pembantu
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Perpajakan-Bagi-Bendahara-Pengeluaran-dan-Bendahara-Pengeluaran-Pembantu.pdf
+POS-PP-16-V02 Pemenuhan Ganti Uang Nihil
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pemenuhan-Ganti-Uang-Nihil.pdf
+POS-PP-17-V02 Pembuatan Surat Keterangan Penghentian Pembayaran (bagi dosen PNS dan Dosen yayasan)
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pembuatan-Surat-Keterangan-Penghentian-Pembayaran-bagi-dosen-PNS-dan-Dosen-yayasan.pdf
+POS-PP-18-V02 Pertanggungjawaban Kegiatan Swakelola
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pertanggungjawaban-Kegiatan-Swakelola.pdf
+POS-PP-19-V07 Penyusunan Laporan Keuangan
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Penyusunan-Laporan-Keuangan.pdf
+POS-PP-20-V02 Penyusuan Laporan Kinerja
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Penyusuan-Laporan-Kinerja.pdf
+POS-PP-21-V02 Pengumpulan Data Kinerja
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Perencanaan-dan-Keuangan-Pengumpulan-Data-Kinerja.pdf
+
+
+Layanan Humas dan Hukum
+
+POS-TU-4-V03 Penyusun Risalah Rapat Dinas
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Penyusun-Risalah-Rapat-Dinas.pdf
+POS-TU-15-V08 Keprotokolan atau Upacara
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Keprotokolan-atau-Upacara.pdf
+POS-TU-18-V03 Penyiapan Bahan Publikasi
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Penyiapan-Bahan-Publikasi.pdf
+POS-TU-22-V03 Penyiapan Bahan Jawaban Atas Pemberitaan Media Massa
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Penyiapan-Bahan-Jawaban-Atas-Pemberitaan-Media-Massa.pdf
+POS-HM-1-V01 Penyiapan Bahan Jawaban atas Pengaduan Melalui LAPOR
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Penyiapan-Bahan-Jawaban-atas-Pengaduan-Melalui-LAPOR.pdf
+POS-HM-2-V01 Pengaduan Pelayanan Publik
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Humas-dan-Hukum-Pengaduan-Pelayanan-Publik.pdf
+
+
+Layanan Tata Usaha dan Barang Milik Negara
+
+POS-TU-1-V09 Penerimaan, Pencatatan dan Pendistribusian Surat Masuk
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penerimaan-Pencatatan-dan-Pendistribusian-Surat-Masuk.pdf
+POS-TU-2-V10 Penerimaan, Pencatatan dan Pendistribusian Surat Keluar
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penerimaan-Pencatatan-dan-Pendistribusian-Surat-Keluar.pdf
+POS-TU-3-V03 Penggandaan Surat dan Dokumen
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penggandaan-Surat-dan-Dokumen.pdf
+POS-TU-5-V05 Urusan Pencatatan, Penyimpanan, Penataan, Pemeliharaan dan Usul Penyusutan Arsip
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Urusan-Pencatatan-Penyimpanan-Penataan-Pemeliharaan-dan-Usul-Penyusutan-Arsip.pdf
+POS-TU-6-V03 Pemberian Layanan Peminjaman Arsip
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pemberian-Layanan-Peminjaman-Arsip.pdf
+POS-TU-7-V07 Pengelolaan Keamanan Gedung
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pengelolaan-Keamanan-Gedung.pdf
+POS-TU-8-V07 Pemeliharaan Kebersihan
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pemeliharaan-Kebersihan.pdf
+POS-TU-9-V03 Pemeliharaan Gedung Kantor dan Kendaraan Dinas
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pemeliharaan-Gedung-Kantor-dan-Kendaraan-Dinas.pdf
+POS-TU-10-V02 Pemantauan dan Evaluasi Persuratan, Kearsipan, Kerumahtanggaan dan Pengelolaan BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pemantauan-dan-Evaluasi-Persuratan-Kearsipan-Kerumahtanggaan-dan-Pengelolaan-BMN.pdf
+POS-TU-11-V09 Pemeliharaan Sarana dan Prasarana Lainnya
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pemeliharaan-Sarana-dan-Prasarana-Lainnya.pdf
+POS-TU-12-V04 Pengaturan Penggunaan Gedung Kantor
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pengaturan-Penggunaan-Gedung-Kantor.pdf
+POS-TU-13-V08 Pengaturan Penggunaan Kendaraan Dinas
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pengaturan-Penggunaan-Kendaraan-Dinas.pdf
+POS-TU-14-V03 Pengaturan Penggunaan Peralatan Kantor
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pengaturan-Penggunaan-Peralatan-Kantor.pdf
+POS-TU-16-V07 Penerimaan Tamu
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penerimaan-Tamu.pdf
+POS-TU-17-V08 Rapat Dinas
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Rapat-Dinas.pdf
+POS-TU-19-V02 Pengelolaan Sistem Informasi Manajemen Akuntansi BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Pengelolaan-Sistem-Informasi-Manajemen-Akuntansi-BMN.pdf
+POS-TU-20-V02 Rekonsiliasi Sistem Informasi Manajemen Akuntansi BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Rekonsiliasi-Sistem-Informasi-Manajemen-Akuntansi-BMN.pdf
+POS-TU-21-V02 Penyusunan Bahan Koordinasi Pengelolaan BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penyusunan-Bahan-Koordinasi-Pengelolaan-BMN.pdf
+POS-TU-23-V08 Inventarisasi BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Inventarisasi-BMN.pdf
+POS-TU-24-V03 Penyusunan Rencana Kebutuhan dan Pengadaan Barang dan Jasa
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penyusunan-Rencana-Kebutuhan-dan-Pengadaan-Barang-dan-Jasa.pdf
+POS-TU-25-V03 Urusan Pengadaan Barang dan Jasa
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Urusan-Pengadaan-Barang-dan-Jasa.pdf
+POS-TU-26-V03 Penerimaan, Penyimpanan dan Pendistribusian BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penerimaan-Penyimpanan-dan-Pendistribusian-BMN.pdf
+POS-TU-27-V02 Penyusunan Usul Penghapusan BMN
+https://www.lldikti4.id/wp-content/uploads/2022/04/Layanan-Tata-Usaha-dan-BMN-Penyusunan-Usul-Penghapusan-BMN.pdf
+
+ 

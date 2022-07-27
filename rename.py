@@ -1,6 +1,6 @@
 import os
 
-path = os.chdir("Image_Downloads\lldikti4_dot_or_dot_id")
+path = os.chdir("Image_Downloads\lldikti4_dot_id")
 
 i = 0
 for file in os.listdir(path):

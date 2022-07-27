@@ -8,8 +8,8 @@ nameurl = ''
 namedownload = ''
 
 
-f = open('materi-kegiatan.txt', 'a')
-url = "https://www.lldikti4.id/downloads/materi-kegiatan/"
+f = open('prosedur-operasional-standar.txt', 'a')
+url = "https://www.lldikti4.or.id/prosedur-operasional-standar/"
 r = requests.get(url)
 soup = BeautifulSoup(r.text, "html.parser")
 elemt = soup.find_all('a')
@@ -19,6 +19,7 @@ for title in elemt:
     nametitle = title.text
     nameurl = title.get("href")
     f.write(nametitle + '\n' + str(nameurl) + '\n')
+    # print(nametitle)
 
 
 f.close()
