@@ -1,0 +1,292 @@
+
+{des:"Peraturan Pemerintah Republik Indonesia Nomor 30 Tahun 2019 tentang Penilaian Kinerja Pegawai Negeri Sipil",
+url:"http://www.kopertis3.or.id/v6/wp-content/uploads/2019/05/PP-Nomor-30-Tahun-2019.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 11 Tahun 2017 tentang Manajemen Pegawai Negeri Sipil",
+url:"http://lldikti3.ristekdikti.go.id/v2/wp-content/uploads/Peraturan-Pemerintah-No-11-Tahun-2017.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 13 Tahun 2015 tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 19 Tahun 2005 Tentang Standar Nasional Pendidikan",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP-No-13-Tahun-2015.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 21 Tahun 2014 tentang Pemberhentian Pegawai Negeri Sipil Yang Mencapai Batas Usia Pensiun Bagi Pejabat Fungsional",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP-21-Thn-2014.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 2014 Tentang Penyelenggaraan Pendidikan Tinggi Dan Pengelolaan Perguruan Tinggi",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP-No-4-thn-2014.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 32 Tahun 2013 tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP0322013.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 96 Tahun 2012 tentang Penutup Undang-undang Nomor 25 Tahun 2009 tentang Pelayanan Publik",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP96-2012PelayananPublik.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 82 Tahun 2012 Tentang Penyelenggaraan Sistem Dan Transaksi Elektronik",
+url:"http://www.kopertis3.or.id/v6/wp-content/uploads/2019/08/PP82-2012TransaksiElektronik1.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 46 Tahun 2011 Tentang Penilaian Prestasi Kerja Pegawai Negeri Sipil",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP46-2011PrestasiKerjaPNS.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 66 Tahun 2010 Tentang Perubahan Atas Peraturan Pemerintah Nomor 17 Tahun 2010 Tentang Pengelolaan Dan Penyelenggaraan Pendidikan",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-no-66-tahun-2010.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 17 Tahun 2010 Tentang Pengelolaan Dan Penyelenggaraan Pendidikan",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-17-tahun-2010.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 53 Tahun 2010 Tentang Disiplin Pegawai Negeri Sipil",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-no-53-tahun-2010.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 41 Tahun 2009 Tentang Peraturan Menteri Pendidikan Dan Kebudayaan Republik Indonesia Nomor 10 Tahun 2020 Tentang Program Indonesia Pintar",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP41-2009-TunjanganPropfesiGurudanDosenTunjanganKhususGurudanDosenSertaTunjanganKehormatanProfesor.pdf",
+title:"Tunjangan Profesi Guru dan Dosen, Tunjangan Khusus Guru dan Dosen, serta Tunjangan Kehormatan Profesor"
+},{
+des:"Peraturan Menteri Pendidikan Dan Kebudayaan Republik Indonesia Nomor 10 Tahun 2020 Tentang Program Indonesia Pintar",
+url:"http://lldikti3.ristekdikti.go.id/v6/wp-content/uploads/2020/02/Permen-10-Tahun-2020.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 37 Tahun 2009 Tentang Dosen",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP37-2009
+},{Dosen.pdf"
+des:"Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 Tentang Standar Nasional Pendidikan",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-19-tahun-2005-ttg-snp.pdf"
+},{
+des:"Peraturan Pemerintah Republik Indonesia Nomor 12 Tahun 2002 Tentang Perubahan Atas Peraturan Pemerintah Nomor 99 Tahun 2000 Tentang Kenaikan Pangkat Pegawai Negeri Sipil",
+url:"http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp_12_2002.pdf"
+}
+
+
+
+ 
+informasi@lldikti4.or.id
+
+mailto:informasi@lldikti4.or.id
+
+
+ 
+Whatsapp
+
+https://bit.ly/3qf80Ad
+
+
+ 
+
+
+https://twitter.com/lldiktiwilayah4?s=09
+
+
+ 
+
+
+https://instagram.com/lldiktiwilayah4?utm_medium=copy_link
+
+
+ 
+
+
+https://m.facebook.com/LLDIKTIWILAYAH4/?tsid=0.24115179413463506&source=result
+
+
+ 
+
+
+https://youtube.com/c/LLDIKTIWILAYAH4
+
+ 
+https://www.lldikti4.id
+Profil
+https://www.lldikti4.id/profil/
+Profil LLDIKTI 4
+https://www.lldikti4.id/profil-lldikti-wilayah-4/
+Profil Kepala LLDIKTI 4
+https://www.lldikti4.id/profil-kepala-lldikti-wilayah-4/
+Info
+https://www.lldikti4.or.id/info-lldikti/
+Akuntabilitas
+https://www.lldikti4.id/akuntabilitas/
+Berita
+https://www.lldikti4.id/category/berita/
+Layanan
+https://www.lldikti4.or.id/layanan/
+Layanan Online
+https://www.lldikti4.or.id/layanan-online/
+Layanan Kami
+https://www.lldikti4.id/layanan-kami/
+Cara Pengajuan Layanan
+https://lldikti4.or.id/cara-pengajuan-layanan
+Informasi Publik
+https://www.lldikti4.id/category/informasi-lldikti-wilayah-iv/informasi-publik/
+Standar Pelayanan Publik
+https://www.lldikti4.id/standar-pelayanan-publik-lldikti-wilayah-iv/
+Produk Hukum
+https://www.lldikti4.id/produk-hukum/
+Surat Edaran
+https://www.lldikti4.or.id/download-category/surat-edaran/
+Undang – Undang
+https://www.lldikti4.id/produk-hukum/undang-undang/
+Peraturan Ristekdikti
+https://www.lldikti4.id/produk-hukum/peraturan-ristekdikti/
+Peraturan Presiden
+https://www.lldikti4.id/produk-hukum/peraturan-presiden/
+Peraturan Menteri
+https://www.lldikti4.id/produk-hukum/peraturan-menteri/
+Peraturan Pemerintah
+https://www.lldikti4.id/produk-hukum/peraturan-pemerintah/
+SK DIRJEN
+https://www.lldikti4.id/sk-dirjen/
+PPID
+https://www.lldikti4.id/ppid/
+Prosedur Operasional Standar
+https://www.lldikti4.or.id/prosedur-operasional-standar/
+Peta Proses Bisnis LLDIKTI Wilayah IV
+https://www.lldikti4.id/peta-proses-bisnis-lldikti-wilayah-iv/
+Buku Panduan / Pedoman
+https://www.lldikti4.id/buku-panduan-pedoman/
+Materi Kegiatan
+https://www.lldikti4.id/downloads/materi-kegiatan/
+Buletin LLDIKTI Wilayah IV
+https://www.lldikti4.id/buletin-lldikti-wilayah-iv/
+Buku Direktori PTS LLDIKTI IV
+https://www.lldikti4.id/buku-direktori-pts-lldikti-iv/
+Buku Statistik Perguruan Tinggi
+https://pddikti.kemdikbud.go.id/publikasi
+Agenda Kegiatan
+https://www.lldikti4.id/kegiatan/
+Galeri
+https://www.lldikti4.or.id/gallery/
+Profil
+https://www.lldikti4.id/profil/
+Profil LLDIKTI 4
+https://www.lldikti4.id/profil-lldikti-wilayah-4/
+Profil Kepala LLDIKTI 4
+https://www.lldikti4.id/profil-kepala-lldikti-wilayah-4/
+Info
+https://www.lldikti4.or.id/info-lldikti/
+Akuntabilitas
+https://www.lldikti4.id/akuntabilitas/
+Berita
+https://www.lldikti4.id/category/berita/
+Layanan
+https://www.lldikti4.or.id/layanan/
+Layanan Online
+https://www.lldikti4.or.id/layanan-online/
+Layanan Kami
+https://www.lldikti4.id/layanan-kami/
+Cara Pengajuan Layanan
+https://lldikti4.or.id/cara-pengajuan-layanan
+Informasi Publik
+https://www.lldikti4.id/category/informasi-lldikti-wilayah-iv/informasi-publik/
+Standar Pelayanan Publik
+https://www.lldikti4.id/standar-pelayanan-publik-lldikti-wilayah-iv/
+Produk Hukum
+https://www.lldikti4.id/produk-hukum/
+Surat Edaran
+https://www.lldikti4.or.id/download-category/surat-edaran/
+Undang – Undang
+https://www.lldikti4.id/produk-hukum/undang-undang/
+Peraturan Ristekdikti
+https://www.lldikti4.id/produk-hukum/peraturan-ristekdikti/
+Peraturan Presiden
+https://www.lldikti4.id/produk-hukum/peraturan-presiden/
+Peraturan Menteri
+https://www.lldikti4.id/produk-hukum/peraturan-menteri/
+Peraturan Pemerintah
+https://www.lldikti4.id/produk-hukum/peraturan-pemerintah/
+SK DIRJEN
+https://www.lldikti4.id/sk-dirjen/
+PPID
+https://www.lldikti4.id/ppid/
+Prosedur Operasional Standar
+https://www.lldikti4.or.id/prosedur-operasional-standar/
+Peta Proses Bisnis LLDIKTI Wilayah IV
+https://www.lldikti4.id/peta-proses-bisnis-lldikti-wilayah-iv/
+Buku Panduan / Pedoman
+https://www.lldikti4.id/buku-panduan-pedoman/
+Materi Kegiatan
+https://www.lldikti4.id/downloads/materi-kegiatan/
+Buletin LLDIKTI Wilayah IV
+https://www.lldikti4.id/buletin-lldikti-wilayah-iv/
+Buku Direktori PTS LLDIKTI IV
+https://www.lldikti4.id/buku-direktori-pts-lldikti-iv/
+Buku Statistik Perguruan Tinggi
+https://pddikti.kemdikbud.go.id/publikasi
+Agenda Kegiatan
+https://www.lldikti4.id/kegiatan/
+Galeri
+https://www.lldikti4.or.id/gallery/
+
+
+
+
+Kontak & Pengaduan
+
+
+https://www.lldikti4.id/kontak/
+Peraturan Pemerintah Republik Indonesia Nomor 30 Tahun 2019 tentang Penilaian Kinerja Pegawai Negeri Sipil
+http://www.kopertis3.or.id/v6/wp-content/uploads/2019/05/PP-Nomor-30-Tahun-2019.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 11 Tahun 2017 tentang Manajemen Pegawai Negeri Sipil
+http://lldikti3.ristekdikti.go.id/v2/wp-content/uploads/Peraturan-Pemerintah-No-11-Tahun-2017.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 13 Tahun 2015 tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 19 Tahun 2005 Tentang Standar Nasional Pendidikan
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP-No-13-Tahun-2015.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 21 Tahun 2014 tentang Pemberhentian Pegawai Negeri Sipil Yang Mencapai Batas Usia Pensiun Bagi Pejabat Fungsional
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP-21-Thn-2014.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 2014 Tentang Penyelenggaraan Pendidikan Tinggi Dan Pengelolaan Perguruan Tinggi
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP-No-4-thn-2014.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 32 Tahun 2013 tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP0322013.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 96 Tahun 2012 tentang Penutup Undang-undang Nomor 25 Tahun 2009 tentang Pelayanan Publik
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP96-2012PelayananPublik.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 82 Tahun 2012 Tentang Penyelenggaraan Sistem Dan Transaksi Elektronik
+http://www.kopertis3.or.id/v6/wp-content/uploads/2019/08/PP82-2012TransaksiElektronik1.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 46 Tahun 2011 Tentang Penilaian Prestasi Kerja Pegawai Negeri Sipil
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP46-2011PrestasiKerjaPNS.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 66 Tahun 2010 Tentang Perubahan Atas Peraturan Pemerintah Nomor 17 Tahun 2010 Tentang Pengelolaan Dan Penyelenggaraan Pendidikan
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-no-66-tahun-2010.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 17 Tahun 2010 Tentang Pengelolaan Dan Penyelenggaraan Pendidikan
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-17-tahun-2010.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 53 Tahun 2010 Tentang Disiplin Pegawai Negeri Sipil
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-no-53-tahun-2010.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 41 Tahun 2009 Tentang
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP41-2009-TunjanganPropfesiGurudanDosenTunjanganKhususGurudanDosenSertaTunjanganKehormatanProfesor.pdf
+Peraturan Menteri Pendidikan Dan Kebudayaan Republik Indonesia Nomor 10 Tahun 2020 Tentang Program Indonesia Pintar
+http://lldikti3.ristekdikti.go.id/v6/wp-content/uploads/2020/02/Permen-10-Tahun-2020.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 37 Tahun 2009 Tentang Dosen
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/PP37-2009Dosen.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 Tentang Standar Nasional Pendidikan
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp-19-tahun-2005-ttg-snp.pdf
+Peraturan Pemerintah Republik Indonesia Nomor 12 Tahun 2002 Tentang Perubahan Atas Peraturan Pemerintah Nomor 99 Tahun 2000 Tentang Kenaikan Pangkat Pegawai Negeri Sipil
+http://lldikti3.ristekdikti.go.id/html/wp-content/uploads/2011/04/pp_12_2002.pdf
+
+ 
+https://www.lldikti4.id
+
+
+Read More
+
+
+https://www.lldikti4.id/about/
+
+Direktori Gurubesar
+
+http://gurubesar.lldikti4.or.id/
+
+Direktori Doktor
+
+http://doktor.lldikti4.or.id/
+
+Data Kelembagaan
+
+https://direktori.lldikti4.or.id/
+
+Informasi kegiatan LLDIKTI Wilayah IV
+
+https://kegiatan.lldikti4.or.id/
+
+Beasiswa dosen
+
+http://budi.ristekdikti.go.id/web/
+
+Pangkalan Data Pendidikan Tinggi (PD-DIKTI)
+
+https://pddikti.kemdikbud.go.id/
+
+Ijin Pendirian Perguruan Tinggi Swasta, Program Studi dan Alih Kelola atau Perubahan Perguruan Tinggi Swasta
+
+https://silemkerma.kemdikbud.go.id/

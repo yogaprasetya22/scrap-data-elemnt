@@ -7,8 +7,8 @@ nameurl = ''
 namedownload = ''
 
 
-f = open('lldikti.txt', 'a')
-url = "https://www.lldikti4.id/produk-hukum/"
+f = open('materi-kegiatan.txt', 'a')
+url = "https://www.lldikti4.id/downloads/materi-kegiatan/"
 r = requests.get(url)
 soup = BeautifulSoup(r.text, "html.parser")
 elemt = soup.find_all(['a', 'span'], class_=[
